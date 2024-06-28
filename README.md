@@ -5,7 +5,7 @@
 - 📫 How to reach me nicholas@thicketapp.com (This... may not be active yet, the website is a b list priority. There will be one, but once I have more of the body of work done.)
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I'm using the app to help groups organize.
-- I AI Statement: I'm working with AI tools and images, but that's because I am lacking flesh and blood collaborators. If you strongly object, and would rather improve than destroy, add your skills, (not for free, but I cannot pay much yet) and I'll replace AI generated work with human work.
+- I/O AI Statement: I'm working with AI tools and images, but that's because I am lacking flesh and blood collaborators. If you strongly object, and would rather improve than destroy, add your skills, (not for free, but I cannot pay much yet) and I'll replace AI generated work with human work.
 <!---
 TheNicholasFrost/TheNicholasFrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
